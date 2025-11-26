@@ -22,4 +22,13 @@ I want the game to load instantly in the browser
 So that I can play without installation or complex setup.
 
 
+<--- descrption of the code ----->
+
+1- first the game starts when the start game button is clicked which is using an addlesetenter funcation 
+2- when you click the box ( which is the whole point of the game ) the randompostion function runs and generates the random the postions for the box using the math.random()
+3 - the score is updated and stored. 
+
+                                            as simpale as that 
+                      
+
 
