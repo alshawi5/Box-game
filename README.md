@@ -1,4 +1,17 @@
-User stroy : 
+
+
+<img width="1350" height="690" alt="Screenshot 2025-11-20 094728" src="https://github.com/user-attachments/assets/48dc2a57-f3ff-4afd-b892-72055f822404" />
+
+
+# How to play 
+
+1- first the game starts when the start game button is clicked which is using an addlesetenter funcation 
+2- when you click the box ( which is the whole point of the game ) the randompostion function runs and generates the random the postions for the box using the math.random()
+3 - the score is updated and stored. 
+
+
+
+# User stroy : 
 
 As a casual user
 I want to click a moving box within a limited time
@@ -22,13 +35,7 @@ I want the game to load instantly in the browser
 So that I can play without installation or complex setup.
 
 
-                                                                                                          <--- descrption of the code --->
-
-1- first the game starts when the start game button is clicked which is using an addlesetenter funcation 
-2- when you click the box ( which is the whole point of the game ) the randompostion function runs and generates the random the postions for the box using the math.random()
-3 - the score is updated and stored. 
-
-                                                                                                         <--- descrption of the methods --->
+# descrption of the methods 
 
  1. getRandomPosition()
 This function calculates a random position for the box inside the game area. It:
@@ -88,3 +95,8 @@ Creates an audio object so the game can play the quack sound.
 •	box.style.display shows or hides the box.
 •	textContent updates on screen numbers and messages.
 
+# whats next?
+
+1- add diffculity
+
+2- better style
