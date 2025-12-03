@@ -2,6 +2,9 @@
 
 <img width="1350" height="690" alt="Screenshot 2025-11-20 094728" src="https://github.com/user-attachments/assets/48dc2a57-f3ff-4afd-b892-72055f822404" />
 
+# picture for the game 
+
+<img width="1467" height="744" alt="Screenshot 2025-12-03 at 2 50 31 PM" src="https://github.com/user-attachments/assets/536e845d-d6c5-4510-a924-fd15febf4a25" />
 
 # How to play 
 
